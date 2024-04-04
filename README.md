@@ -36,7 +36,7 @@ The project uses the Breast Cancer Wisconsin (Diagnostic) Data Set from Kaggle.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shemayon/Breast-Cancer-Detection.git
+   git clone https://github.com/shemayon/Breast-Cancer-Detection-ML.git
    ```
 2. If you cant clone, download the notebook provided and try to run it !! 
 3. Open and run the Jupyter Notebook `Breast_Cancer_Detection.ipynb` to explore the analysis, models, and results.
