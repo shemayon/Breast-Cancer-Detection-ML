@@ -28,8 +28,7 @@ The primary objective of this project is to investigate key features that affect
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, keras
 
 ## Dataset
-The project uses the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) from the UCI Machine Learning Repository. This dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, and the target variable is the diagnosis (M = malignant, B = benign).
-
+The project uses the Breast Cancer Wisconsin (Diagnostic) Data Set from Kaggle.
 ## Files
 - `Breast_Cancer_Detection.ipynb`: Jupyter Notebook containing code for data analysis, model building, and evaluation.
 - `breast_cancer_data.csv`: CSV file containing the breast cancer dataset.
